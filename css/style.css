@@ -4,6 +4,7 @@
     box-sizing: border-box;
     text-align: center;
 
+    font-family: "Poppins", sans-serif;
     color: #fff;
 }
 
@@ -129,6 +130,7 @@ a{
     font-weight: 300;
     color: #fff;
     text-decoration: none;
+    font-weight: 200;
 
     transform: translate(0, calc((1 - var(--active)) * (100% + 2.5rem)));
 
